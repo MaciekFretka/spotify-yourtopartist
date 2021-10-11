@@ -108,7 +108,7 @@ If you want run app, only you need is any device connected with the internet and
 
   <p align="center">
     <br />
-    <a href="https://your-top-artist.herokuapp.com/">
+  <a href="https://your-top-artist.herokuapp.com/"></a>
 
   </p>
 
