@@ -68,8 +68,8 @@ A simple web application, enabling users registered on Spotify to display the ar
 IMPORTANT: Since the application is in development mode, Spotify Service only accepts authorization from users who are manually added by developer.
 Please contact if you want to try my app
 
-<img src="1.png" />
-<img src="2.png" style="float: center;" />
+<img src="1.png" style="width:360px; height:640px;" />
+<img src="2.png" style="width:360px; height:640px;" />
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
