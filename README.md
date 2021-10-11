@@ -106,7 +106,12 @@ If you want run app, only you need is any device connected with the internet and
 
 1. Visit webstie: 
 
- <a href="https://your-top-artist.herokuapp.com/" />
+  <p align="center">
+    <br />
+    <a href="https://your-top-artist.herokuapp.com/">View Demo</a>
+
+  </p>
+
   
 2. Click : Check your top artist!"
 3. Login to your spotify account
