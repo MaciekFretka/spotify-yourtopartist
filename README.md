@@ -62,11 +62,11 @@
 ## About The Project
 
 
-Use this app for greatly reduce size of yours video files.
-If you have a big library of videos in .mp4 extensions, you can save considerably disc space.
- 
- App works by transcoding video files from standard h.264 to standard h.265
- H.264 standard is more poopular, by new h.265 use more advanced algorhitms, making possible to halved video size, without loss of quality
+A simple web application, enabling users registered on Spotify to display the artist most listened to recently.
+
+
+IMPORTANT: Since the application is in development mode, Spotify Service only accepts authorization from users who are manually added by developer.
+Please contact if you want to try my app
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
