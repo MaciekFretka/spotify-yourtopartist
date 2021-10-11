@@ -81,9 +81,10 @@ Please contact if you want to try my app
 ### Built With
 
 * [Java 11](https://docs.oracle.com/en/java/javase/11/)
-* [JavaFX](https://openjfx.io/)
-* [C](https://en.cppreference.com/w/c/language)
-* [FFmpeg](https://ffmpeg.org/documentation.html)
+* [Spring boot](https://spring.io/projects/spring-boot)
+* [ThymeLeaf](https://www.thymeleaf.org)
+* [Bootstrap](https://getbootstrap.com)
+* [Heroku](https://www.heroku.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
