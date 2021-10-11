@@ -106,11 +106,8 @@ If you want run app, only you need is any device connected with the internet and
 
 1. Visit webstie: 
 
-  <p align="center">
-    <br />
-  <a href="https://your-top-artist.herokuapp.com/"></a>
+[https://your-top-artist.herokuapp.com/](https://your-top-artist.herokuapp.com/)
 
-  </p>
 
   
 2. Click : Check your top artist!"
