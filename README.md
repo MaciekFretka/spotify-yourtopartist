@@ -51,7 +51,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -114,20 +113,6 @@ If you want run app, only you need is any device connected with the internet and
 3. Login to your spotify account
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-Check video demo:
-                                 
-
-  <p align="center">
-    <br />
-    <a href=https://www.youtube.com/watch?v=-SRVXHB-ks0&ab_channel=MaciejJaro%C5%84ski">View Demo</a>
-
-  </p>
-
 
 
 
