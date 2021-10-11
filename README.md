@@ -123,6 +123,6 @@ If you want run app, only you need is any device connected with the internet and
 
 Maciej Jaroński - maciekjaronski98@gmail.com
 
-Project Link: [https://github.com/MaciekFretka/Video-Transcode](https://github.com/MaciekFretka/Video-Transcoder)
+Project Link: [https://github.com/MaciekFretka/spotify-yourtopartist](https://github.com/MaciekFretka/spotify-yourtopartist)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
