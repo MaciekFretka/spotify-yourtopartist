@@ -69,6 +69,7 @@ IMPORTANT: Since the application is in development mode, Spotify Service only ac
 Please contact if you want to try my app
 
 <img src="1.png" />
+<img src="2.png" style="float: center;" />
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
