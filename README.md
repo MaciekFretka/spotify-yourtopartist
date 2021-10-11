@@ -93,38 +93,23 @@ Please contact if you want to try my app
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+
 
 ### Prerequisites
 
-If you want run app by jar container you need to install java 9 or higher on your computer.
-                                
-* [Java](https://java.com/en/download/help/download_options.html)
-                                
-                                
-If you want run app by docker container you need to install docker on your computer.
-                                
- * [Docker](https://docs.docker.com/get-docker/)
+If you want run app, only you need is any device connected with the internet and any web browser.
                                 
                                
 
 
 ### Run app
 
-1. Clone the 'jar-release' branch
-2. Clone the repo
-   ```sh
-   git clone --single-branch --branch jar-release https://github.com/MaciekFretka/Video-Transcoder.git
-   ```
-3. Go into 'Video-Transcoder' folder
-   ```sh
-   cd Video-Transcoder
-   ```
-4. Open java jar file `
-   ```js
-   java -jar VideoTranscoder.jar
-   ```
+1. Visit webstie: 
+
+ <a href="https://your-top-artist.herokuapp.com/">
+  
+2. Click : Check your top artist!"
+3. Login to your spotify account
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
