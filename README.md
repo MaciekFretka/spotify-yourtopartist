@@ -22,12 +22,12 @@
 
 <div align="center">
 
-<h3 align="center">Video transcoder App</h3>
+<h3 align="center">Top artist</h3>
 
   <p align="center">
-    Simple video transcoder (h.264 to h.265)
+    Simple spotify app to show yours top artist
     <br />
-    <a href=https://www.youtube.com/watch?v=-SRVXHB-ks0&ab_channel=MaciejJaro%C5%84ski">View Demo</a>
+    <a href="https://your-top-artist.herokuapp.com/">Try it</a>
 
   </p>
 </div>
